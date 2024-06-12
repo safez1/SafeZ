@@ -1,1 +1,2 @@
 # SafeZ
+Building from scratch 
